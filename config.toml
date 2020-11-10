@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://zoomdaa-wheat.vercel.app/"
 languageCode = "en-us"
 title = "ZoomDaa's Site"
 theme = "ananke"
